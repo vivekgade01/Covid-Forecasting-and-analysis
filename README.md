@@ -1,1 +1,1 @@
-# Covif-Forecasting-and-analysis
+# Covid-Forecasting-and-analysis
